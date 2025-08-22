@@ -38,3 +38,24 @@ The dashboard helps identify trends, demographic patterns, and engagement insigh
 ![Dashboard Preview](reports/Screenshot%20(31).png)
 
 ---
+## Tools & Technologies
+
+- **Power BI:** For dashboard creation and visualization.
+- **Excel / CSV:** For dataset storage and preprocessing.
+
+---
+
+## How to Use
+
+1. Clone the repository.
+2. Open the `.pbix` file in Power BI Desktop.
+3. Explore interactive visualizations, slicers, and filters to analyze trends.
+
+---
+
+## Author
+
+**Algin Farrell**
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/algin-farrell-16681432b)  
+- Email: alginfarrell82@gmail.com
